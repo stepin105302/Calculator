@@ -1,6 +1,6 @@
-@mainpage Prime Number Program by Neeraja
+@mainpage Calculator Program by Neeraja
 
-This C program checks whether a number is prime or not
+This C program calculates the sum and difference of two integer values
 
 @page Details
 **Author:** Neeraja
@@ -9,4 +9,4 @@ This C program checks whether a number is prime or not
 
 @page Modules
 
-@subpage Prime_header.h
+@subpage Calculator_header.h

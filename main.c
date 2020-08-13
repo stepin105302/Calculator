@@ -1,4 +1,4 @@
-#include "test_prime.h"
+#include "test_file.h"
 
 int main()
 {

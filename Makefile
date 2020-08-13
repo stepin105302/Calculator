@@ -1,13 +1,13 @@
 SRC = unity/unity.c\
-src/Prime.c\
-test/test_prime.c\
+src/Calculator.c\
+test/test_file.c\
 main.c
 
 INC = -Iunity\
 -Iinc\
 -Itest
 
-PROJECT_NAME = Prime.out
+PROJECT_NAME = Calculate.out
 
 $(PROJECT_NAME): $(SRC)
 	gcc $(SRC) $(INC) -o $(PROJECT_NAME)

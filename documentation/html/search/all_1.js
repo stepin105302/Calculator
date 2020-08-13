@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['neither_5fprime_5fnor_5fcomposite_1',['NEITHER_PRIME_NOR_COMPOSITE',['../_prime__header_8h.html#ac13f189115aecfd6baa83299b24986a7',1,'Prime_header.h']]]
+  ['calculate_1',['calculate',['../_calculator__header_8h.html#aaf9067b6f5887ce622a7131d55532e14',1,'Calculator_header.h']]],
+  ['calculator_5fheader_2eh_2',['Calculator_header.h',['../_calculator__header_8h.html',1,'']]],
+  ['calculator_20program_20by_20neeraja_3',['Calculator Program by Neeraja',['../index.html',1,'']]]
 ];

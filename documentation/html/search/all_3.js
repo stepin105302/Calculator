@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['true_5',['TRUE',['../_prime__header_8h.html#aa8cecfc5c5c054d2875c03e77b7be15d',1,'Prime_header.h']]]
+  ['sub_5',['sub',['../_calculator__header_8h.html#ac296c54e8c35b1fb34f36f7b11c26ea3',1,'Calculator_header.h']]]
 ];

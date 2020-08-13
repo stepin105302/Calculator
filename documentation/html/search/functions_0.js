@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['prime_7',['prime',['../_prime__header_8h.html#acc358e9256abd6a6d4db10f093d43715',1,'Prime_header.h']]]
+  ['add_7',['add',['../_calculator__header_8h.html#ae9e80f72ea764075aace5d65cebc1ced',1,'Calculator_header.h']]]
 ];
